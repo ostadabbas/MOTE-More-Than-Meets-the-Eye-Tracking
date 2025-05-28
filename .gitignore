@@ -1,0 +1,28 @@
+# Ignore large model files
+mote_exp_mot17/model_mote_final.pth
+mote_exp_mot17/checkpoint.pth
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
