@@ -10,6 +10,7 @@ This repository contains the official implementation of MOTE (More Than Meets th
 
 **Paper:** Coming Soon
 
+**Hugging Face Demo:** Coming Soon
 
 ## Overview
 
