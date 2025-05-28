@@ -1,0 +1,14 @@
+VOTE Index: 0.517775753659827
+VOTE Metrics: {'Visibility Consistency': 0.3975396825396826, 'Occlusion Handling Efficiency': 0.3975396825396826, 'Average Occlusion Duration': 0.6719799762877091}
+VOTE Index: 0.2274052255553526
+VOTE Metrics: {'Visibility Consistency': 0.0343946188340807, 'Occlusion Handling Efficiency': 0.0343946188340807, 'Average Occlusion Duration': 0.5523475595597455}
+VOTE Index: 0.517775753659827
+VOTE Metrics: {'Visibility Consistency': 0.3975396825396826, 'Occlusion Handling Efficiency': 0.3975396825396826, 'Average Occlusion Duration': 0.6719799762877091}
+VOTE Index: 0.2274052255553526
+VOTE Metrics: {'Visibility Consistency': 0.0343946188340807, 'Occlusion Handling Efficiency': 0.0343946188340807, 'Average Occlusion Duration': 0.5523475595597455}
+VOTE Index: 0.25174323223409656
+VOTE Metrics: {'Visibility Consistency': 0.06505602240896356, 'Occlusion Handling Efficiency': 0.06505602240896356, 'Average Occlusion Duration': 0.5126956782263501}
+VOTE Index: 0.4461378771997897
+VOTE Metrics: {'Visibility Consistency': 0.3078450844091361, 'Occlusion Handling Efficiency': 0.3078450844091361, 'Average Occlusion Duration': 0.5493065518890483}
+VOTE Index: 0.5962761926581253
+VOTE Metrics: {'Visibility Consistency': 0.6458100558659218, 'Occlusion Handling Efficiency': 0.3458100558659218, 'Average Occlusion Duration': 0.33280757097791797}
