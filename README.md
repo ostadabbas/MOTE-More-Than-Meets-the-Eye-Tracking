@@ -6,7 +6,7 @@
 
 This repository contains the official implementation of MOTE (More Than Meets the Eyes) for end-to-end multi-object tracking.
 
-**Project Page:** [https://bishoymoussa.github.io/mot-research.github.io/](https://bishoymoussa.github.io/mot-research.github.io/)
+**Project Page:** [https://bishoymoussa.github.io/mot-research.github.io/](MOTE Project Page)
 
 **Paper:** Coming Soon
 
