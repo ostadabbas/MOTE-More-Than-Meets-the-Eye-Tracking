@@ -5,7 +5,9 @@
 **Accepted in ICML 2025**
 
 This repository contains the official implementation of MOTE (More Than Meets the Eyes) for end-to-end multi-object tracking.
-This project was done in the [ACLab](https://ostadabbas.sites.northeastern.edu/) in Northeastern University 
+
+This project was done in the [ACLab](https://ostadabbas.sites.northeastern.edu/) at Northeastern University.
+
 **Project Page:** [MOTE Project Page](https://bishoymoussa.github.io/mot-research.github.io/)
 
 **Paper:** Coming Soon
