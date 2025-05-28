@@ -218,12 +218,17 @@ SportsMOT is a large-scale multi-object tracking dataset consisting of 240 video
 
 The dataset focuses on tracking players on the playground (excluding spectators, referees, and coaches) in various sports scenes. It provides diverse scenes including indoor and outdoor environments, different camera angles, and various player densities and movement patterns.
 
-<div style="display: flex; flex-direction: row;">
-  <img src="figs/v_-6Os86HzwCs_c009.gif" alt="SportsMOT Basketball" style="width: 45%; margin-right: 1%;">
-  <img src="figs/v_ApPxnw_Jffg_c016.gif" alt="SportsMOT Football" style="width: 45%; margin-right: 1%;">
-  <img src="figs/v_gQNyhv8y0QY_c013.gif" alt="SportsMOT Volleyball" style="width: 45%;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 20px 0;">
+  <img src="figs/v_-6Os86HzwCs_c009.gif" alt="SportsMOT Basketball" style="width: 80%; margin-bottom: 15px; border: 1px solid #ddd;">
+  <p style="text-align: center; margin-bottom: 20px;"><em>Basketball tracking</em></p>
+  
+  <img src="figs/v_ApPxnw_Jffg_c016.gif" alt="SportsMOT Football" style="width: 80%; margin-bottom: 15px; border: 1px solid #ddd;">
+  <p style="text-align: center; margin-bottom: 20px;"><em>Football (Soccer) tracking</em></p>
+  
+  <img src="figs/v_gQNyhv8y0QY_c013.gif" alt="SportsMOT Volleyball" style="width: 80%; margin-bottom: 15px; border: 1px solid #ddd;">
+  <p style="text-align: center;"><em>Volleyball tracking</em></p>
 </div>
-<p style="text-align: center;"><em>Sample clips from SportsMOT dataset showing basketball, football, and volleyball tracking</em></p>
+<p style="text-align: center;"><em>Sample clips from SportsMOT dataset</em></p>
 
 ### Dataset Statistics
 
